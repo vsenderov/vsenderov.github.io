@@ -1,3 +1,3 @@
-# Homepage of Viktor Senderov
+# Homepage
 
 Hello, World!
