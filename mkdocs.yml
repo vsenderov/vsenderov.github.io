@@ -4,8 +4,9 @@ site_url: https://vsenderov.github.io/
 
 theme:
     name: 'material'
-    logo: assets/meta/caticon.png
-    favicon: assets/meta/caticon.png
+    icon:
+        logo: material/library
+    favicon: images/favicon.png
     font:
         text: Ubuntu
         code: Ubuntu Mono
