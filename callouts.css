@@ -1,0 +1,9 @@
+.md-typeset .admonition, 
+.md-typeset details { 
+  font-size: 0.8rem; 
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}

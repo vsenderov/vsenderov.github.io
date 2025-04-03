@@ -1,19 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://vsenderov.github.io/</loc>
-         <lastmod>2025-03-18</lastmod>
+         <loc>https://vsenderov.github.io/About/About%20Viktor%20Senderov/</loc>
+         <lastmod>2025-04-03</lastmod>
     </url>
     <url>
-         <loc>https://vsenderov.github.io/Career/Skills/</loc>
-         <lastmod>2025-03-18</lastmod>
+         <loc>https://vsenderov.github.io/About/CV%20Viktor%20Senderov/</loc>
+         <lastmod>2025-04-03</lastmod>
     </url>
     <url>
-         <loc>https://vsenderov.github.io/Leadership/Leadership/</loc>
-         <lastmod>2025-03-18</lastmod>
+         <loc>https://vsenderov.github.io/About/Professional%20skills/</loc>
+         <lastmod>2025-04-03</lastmod>
     </url>
     <url>
-         <loc>https://vsenderov.github.io/Research/Research/</loc>
-         <lastmod>2025-03-18</lastmod>
+         <loc>https://vsenderov.github.io/Leadership/Leadership%20experience/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vsenderov.github.io/Leadership/OpenBiodiv%20leadership/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vsenderov.github.io/Leadership/TreePPL%20leadership/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vsenderov.github.io/Programming/Programming%20experience/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vsenderov.github.io/Publications/Research%20record/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vsenderov.github.io/Teaching/Teaching%20and%20science%20communication/</loc>
+         <lastmod>2025-04-03</lastmod>
     </url>
 </urlset>
