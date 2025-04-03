@@ -6,7 +6,6 @@ theme:
     name: 'material'
     icon:
         logo: material/library
-    favicon: images/favicon.png
     font:
         text: Ubuntu
         code: Ubuntu Mono
@@ -16,7 +15,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
+      primary: blue grey
       accent: light blue
       toggle:
         icon: material/toggle-switch-off-outline
@@ -25,7 +24,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
+      primary: brown
       accent: indigo
       toggle:
         icon: material/toggle-switch
@@ -47,7 +46,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -55,5 +56,18 @@ extra_javascript:
 
 plugins:
     - search
+    - git-revision-date-localized
     - inline-select-svg
     - callouts
+    - awesome-nav
+    - ezlinks:
+        warn_ambiguities: true
+        wikilinks: true
+        reference_links: false
+    - redirects:
+        redirect_maps:
+          'index.md': 'About/About Viktor Senderov.md'
+
+
+extra_css:
+  - callouts.css
